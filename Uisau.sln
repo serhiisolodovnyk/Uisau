@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uisau.Models", "Uisau.Models\Uisau.Models.csproj", "{70B244CB-8891-4EC3-BDF8-95AE175DBDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uisau.Services", "Uisau.Services\Uisau.Services.csproj", "{D9C11E07-55B4-4CCE-81AF-E117D693C042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uisau.Data", "Uisau.Data\Uisau.Data.csproj", "{1684C0E4-69FA-4A63-9702-E809B840D647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B244CB-8891-4EC3-BDF8-95AE175DBDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B244CB-8891-4EC3-BDF8-95AE175DBDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B244CB-8891-4EC3-BDF8-95AE175DBDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B244CB-8891-4EC3-BDF8-95AE175DBDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C11E07-55B4-4CCE-81AF-E117D693C042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C11E07-55B4-4CCE-81AF-E117D693C042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C11E07-55B4-4CCE-81AF-E117D693C042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C11E07-55B4-4CCE-81AF-E117D693C042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1684C0E4-69FA-4A63-9702-E809B840D647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1684C0E4-69FA-4A63-9702-E809B840D647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1684C0E4-69FA-4A63-9702-E809B840D647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1684C0E4-69FA-4A63-9702-E809B840D647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
